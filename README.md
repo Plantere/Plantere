@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Fábio Torres AKA Plantere
 
-## I'm a Developer 
+## I'm a Full-stack Developer 
 
 - 🔭 I’m currently working on FIX » Soluções inteligentes
 - 🌱 I’m currently learning Clojure, Datomic and about functional programming 
